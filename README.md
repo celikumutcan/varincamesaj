@@ -3,7 +3,7 @@
 VarıncaMesaj, belirlediğiniz bir konuma yaklaştığınızda WhatsApp üzerinden otomatik olarak önceden belirlediğiniz bir mesajı gönderen bir Android otomasyon uygulamasıdır.
 
 ## 💡 Projenin Hikayesi
-Bu projeyi geliştirmemdeki temel motivasyon, şirketten eve dönerken servisteyken eve son 10 dakika kala abime haber vermek için sürekli telefona bakma ve mesaj atma zahmetinden kurtulmaktı. Uygulama sayesinde artık belirlediğim konuma girdiğim an sistem benim yerime "Geliyorum!" mesajını atıyor. :)
+Bu projeyi, servis gibi ulaşım araçlarında belirlediğim konuma yaklaştığımda WhatsApp üzerinden otomatik mesaj göndererek, sürekli telefona bakma ve manuel mesaj atma zahmetinden kurtulmak amacıyla geliştirdim.
 
 ## 🚀 Özellikler
 - **Geofencing API:** Pil dostu arka plan konum takibi sayesinde belirlenen enlem ve boylama (örneğin eve 10 dk uzaklıktaki bir noktaya) girildiğini anında tespit eder.
@@ -16,4 +16,4 @@ Bu projeyi geliştirmemdeki temel motivasyon, şirketten eve dönerken servistey
 3. Hedef koordinatları, numarayı ve mesajı girip **"Başlat"** butonuna basın.
 
 ---
-*Not: Bu proje eğitim ve kişisel otomasyon amacıyla geliştirilmiş olup Android'in arka plan servisleri ve erişilebilirlik yeteneklerini test etmek için harika bir örnektir.*
+*Not: Bu proje eğitim ve kişisel otomasyon amacıyla geliştirilmiş olup Android'in arka plan servisleri ve erişilebilirlik yeteneklerini test etmek için örnektir.*
