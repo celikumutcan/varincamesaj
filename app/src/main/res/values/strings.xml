@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VarincaMesaj</string>
+    <string name="accessibility_service_description">WhatsApp otomatik mesaj gönderme izni</string>
+</resources>
